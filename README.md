@@ -1,11 +1,11 @@
 ## Hi there I'm Lionel Kaniki - aka mr-leo44 👋
 
 <!--[![Website](https://img.shields.io/website?label=My.Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fortunedev.me) -->
-### I'm a  Passionate Software Developer, Data Analyst 👨‍💻💻 and Musician 🎼🎹🎵
+#### I'm a  Passionate Software Developer, Data Analyst 👨‍💻💻 and Musician 🎼🎹🎵
 
-🌱 I’m currently learning to develop my skills with the aim od using them to serve my the community
+🌱 I’m currently learning to develop my skills with the aim to using them to serve my the community
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="mr-leo44 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mr-leo44 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
