@@ -3,7 +3,7 @@
 <!--[![Website](https://img.shields.io/website?label=My.Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fortunedev.me) -->
 #### I'm a  Passionate Software Developer, Data Analyst 👨‍💻💻 and Musician 🎼🎹🎵
 
-🌱 I’m currently learning to develop my skills with the aim to using them to serve my the community
+🌱 I’m currently learning to develop my skills with the aim to using them to serve the community
 
 #### Connect with me:
 
