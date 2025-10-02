@@ -7,6 +7,7 @@
 
 #### Connect with me:
 
+[<img align="left" alt="mr-leo44 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />][website]
 [<img align="left" alt="mr-leo44 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mr-leo44 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mr-leo44 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -35,3 +36,4 @@
 [twitter]: https://twitter.com/drewlionel
 [instagram]: https://www.instagram.com/mr_leo44/
 [linkedin]: https://www.linkedin.com/in/mr-leo44
+[website]: https://portfoleo-ebon.vercel.app
